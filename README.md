@@ -1,3 +1,3 @@
 ### Hi there, I'm [Tércio Tales!](https://github.com/terciotales) 👋
-###[YES](https://media.giphy.com/media/3o7TKuAfCHifvPdcxG/giphy.gif)
+<iframe src="https://giphy.com/embed/3o7TKuAfCHifvPdcxG" width="480" height="330" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
