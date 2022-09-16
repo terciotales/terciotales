@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, meu nome é Tércio Tales!<br>  
+<h1>Olá, meu nome é Tércio Tales! 👋🏻</h1>  
 </p>
 
 <p align="left">
@@ -11,6 +11,7 @@
 <p align="left">
   💼 <strong>Desenvolvedor Web em NúcleoGov Assessoria e Tecnologia.</strong>
 </p>
+<br>
 
 <p align="left">
   <a href="#" alt="Instagram">
