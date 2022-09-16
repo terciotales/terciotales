@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-<h1>Olá, meu nome é Tércio Tales! 👋🏻</h1>  
+<h1>Olá, meu nome é Tércio Tales!</h1>  
 </p>
 
 <p align="left">
