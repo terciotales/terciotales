@@ -1,4 +1,4 @@
-<p align="left"> 
+<p align="center"> 
 <h1>Olá, meu nome é Tércio Tales!</h1>  
 </p>
 
