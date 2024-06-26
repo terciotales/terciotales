@@ -3,7 +3,7 @@
 </p>
 
 <p align="left">
-  🎓 <strong>Estudante de Análise e Desenvolvimento de Sistemas em Pontifícia Universidade Católica de Goiás.</strong>
+  🎓 <strong>Formação: Análise e Desenvolvimento de Sistemas em Pontifícia Universidade Católica de Goiás.</strong>
 </p>
 
 <p align="left">
