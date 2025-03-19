@@ -11,4 +11,4 @@ Full-Stack Web Developer at [NúcleoGov](https://nucleogov.com.br);<br>
 📫 How to reach me:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/terciotales)
-- 📧 Email: terciotalesb@gmail.com
+- 📧 terciotalesb@gmail.com
