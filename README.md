@@ -1,12 +1,9 @@
-<p align="center"> 
-<h1>Olá, meu nome é Tércio Tales!</h1>  
-</p>
+### Hello there 👋
 
-<p align="left">
-  🎓 <strong>Formação: Análise e Desenvolvimento de Sistemas em Pontifícia Universidade Católica de Goiás.</strong>
-</p>
+#### A Full-Stack Developer by day ☼ and a WordPress Community Contributor by night ☾
 
-<p align="left">
-  💼 <strong>Desenvolvedor Web em NúcleoGov Assessoria e Tecnologia.</strong>
-</p>
-<br>
+Full-Stack Web Developer at [NúcleoGov](https://nucleogov.com.br);<br>
+
+- 🎓 Graduated in **Analysis and Systems Development** at **PUC Goiás**
+- 🌱 Currently working on WordPress plugins and React-based projects
+- ⚙️ I use daily: `.php`, `.js`, `.jsx`, `.ts`, `.json`, `.html`, `.css`, `.scss`
