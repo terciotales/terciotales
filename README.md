@@ -1,8 +1,6 @@
 ### Hello there 👋
 
-#### A Full-Stack Developer by day ☼ and a WordPress Community Contributor by night ☾
-
-Full-Stack Web Developer at [NúcleoGov](https://nucleogov.com.br);<br>
+Systems Analyst Web Developer at [NúcleoGov](https://nucleogov.com.br);<br>
 
 - 🎓 Graduated in **Analysis and Systems Development** at **PUC Goiás**
 - 🌱 Currently working with AI, automations and workflow integrations
