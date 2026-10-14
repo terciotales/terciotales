@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-Systems Analyst Web Developer at [NúcleoGov](https://nucleogov.com.br);<br>
+Systems Analyst at [NúcleoGov](https://nucleogov.com.br);<br>
 
 - 🎓 Graduated in **Analysis and Systems Development** at **PUC Goiás**
 - 🌱 Currently working with AI, automations and workflow integrations
